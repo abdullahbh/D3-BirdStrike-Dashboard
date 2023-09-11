@@ -1,0 +1,30 @@
+#timeline .line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+#timeline .area {
+  /*fill: #969696;*/
+  fill:#ED2B33FF;
+}
+
+#timeline .attention {
+  background: rgb(0, 0, 0);
+  margin: -4px;
+  padding: 4px;
+}
+
+.barChart .bar {
+  fill: #00B1D2FF;
+}
+.barChart .x.axis path {
+  display: none;
+}
+#gates .x.axis text {
+	text-anchor: end;
+}
+
+#gates svg {
+	overflow: visible;
+}

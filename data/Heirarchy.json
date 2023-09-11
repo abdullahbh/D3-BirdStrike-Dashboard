@@ -1,0 +1,4966 @@
+{
+    "name": "Bird Strikes",
+    "children": [
+        {
+            "name": "Louisiana",
+            "children": [
+                {
+                    "name": "BARKSDALE AIR FORCE BASE ARPT",
+                    "children": [
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 32
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 17
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 151
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 111
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 14
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 52
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 24
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Parked",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NEW ORLEANS INTL",
+                    "children": [
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 21
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 4
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 46
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 28
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 21
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 9
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "DC",
+            "children": [
+                {
+                    "name": "WASHINGTON DULLES INTL ARPT",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 80
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 47
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 30
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 14
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 20
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Parked",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Taxi",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "RONALD REAGAN WASHINGTON NATL",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 69
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 59
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 28
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 4
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Parked",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "South Carolina",
+            "children": [
+                {
+                    "name": "CHARLESTON AFB/INTL ARPT",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 60
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 62
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 6
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 56
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 6
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 31
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Taxi",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Missouri",
+            "children": [
+                {
+                    "name": "LAMBERT-ST LOUIS INTL",
+                    "children": [
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 19
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 14
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 36
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 61
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 6
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KANSAS CITY INTL",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 36
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 24
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 30
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 17
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 30
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 4
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "New York",
+            "children": [
+                {
+                    "name": "LAGUARDIA NY",
+                    "children": [
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 49
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 33
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 22
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 20
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Parked",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "JOHN F KENNEDY INTL",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 41
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 43
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 7
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 35
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 31
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 20
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "North Carolina",
+            "children": [
+                {
+                    "name": "CHARLOTTE/DOUGLAS INTL ARPT",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 90
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 39
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 10
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Dusk",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 19
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 24
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 17
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 7
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 19
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 6
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "California",
+            "children": [
+                {
+                    "name": "LOS ANGELES INTL",
+                    "children": [
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 20
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 39
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 30
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 33
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 19
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SACRAMENTO INTL",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 83
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 64
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 54
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 34
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Dawn",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 24
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 36
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Taxi",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MINETA SAN JOSE INTL",
+                    "children": [
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 22
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 18
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 22
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 9
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Taxi",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 18
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "METRO OAKLAND INTL",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 19
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 23
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 17
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SAN FRANCISCO INTL ARPT",
+                    "children": [
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 28
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 19
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 43
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 23
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 17
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Illinois",
+            "children": [
+                {
+                    "name": "CHICAGO O'HARE INTL ARPT",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 79
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 95
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 16
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 7
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 42
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 45
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 9
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 72
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 35
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 5
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "CHICAGO MIDWAY INTL ARPT",
+                    "children": [
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 14
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 18
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "children": [
+                {
+                    "name": "PORTLAND INTL (OR)",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 38
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 36
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 11
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 41
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 21
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 36
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Taxi",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Florida",
+            "children": [
+                {
+                    "name": "FORT LAUDERDALE/HOLLYWOOD INTL",
+                    "children": [
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 18
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 16
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 4
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ORLANDO INTL",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 28
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 29
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 27
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 21
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Taxi",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 3
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Texas",
+            "children": [
+                {
+                    "name": "HOUSTON-HOBBY",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 41
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 33
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 20
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 14
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SAN ANTONIO INTL",
+                    "children": [
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 55
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 24
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 16
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "DALLAS/FORT WORTH INTL ARPT",
+                    "children": [
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 16
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 21
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 245
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 98
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 17
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 17
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 158
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 94
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 69
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 12
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 103
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 9
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Taxi",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "AUSTIN-BERGSTROM INTL",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 33
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 30
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 17
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "GEORGE BUSH INTERCONTINENTAL",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 27
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 24
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 19
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 11
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 7
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Oklahoma",
+            "children": [
+                {
+                    "name": "WILL ROGERS WORLD ARPT",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 17
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 6
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Georgia",
+            "children": [
+                {
+                    "name": "ATLANTA INTL",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 52
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 44
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 6
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Dawn",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 16
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 33
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 6
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 19
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 6
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Indiana",
+            "children": [
+                {
+                    "name": "INDIANAPOLIS INTL",
+                    "children": [
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 24
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 34
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 17
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 21
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tennessee",
+            "children": [
+                {
+                    "name": "NASHVILLE INTL",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 77
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 22
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 35
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 42
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 9
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 44
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Parked",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MEMPHIS INTL",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 102
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 52
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 24
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 25
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 18
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Minnesota",
+            "children": [
+                {
+                    "name": "MINNEAPOLIS-ST PAUL INTL",
+                    "children": [
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 26
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 35
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Utah",
+            "children": [
+                {
+                    "name": "SALT LAKE CITY INTL",
+                    "children": [
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 45
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 46
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 55
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 32
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 22
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hawaii",
+            "children": [
+                {
+                    "name": "HONOLULU INTL ARPT",
+                    "children": [
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 27
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 14
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 30
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 4
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Taxi",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 2
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "LIHUE ARPT",
+                    "children": [
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 55
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 76
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 6
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 22
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 24
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ohio",
+            "children": [
+                {
+                    "name": "CLEVELAND-HOPKINS INTL ARPT",
+                    "children": [
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 18
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 24
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PORT COLUMBUS INTL",
+                    "children": [
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 22
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 17
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 4
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 21
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 3
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kentucky",
+            "children": [
+                {
+                    "name": "CINCINNATI/NORTHERN KENTUCKY INTL ARPT",
+                    "children": [
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 38
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 41
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 71
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 27
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 34
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "LOUISVILLE INTL ARPT",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 100
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 31
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 21
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 22
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 27
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 27
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pennsylvania",
+            "children": [
+                {
+                    "name": "GREATER PITTSBURGH",
+                    "children": [
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 48
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 62
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 41
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 9
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 26
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 31
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 22
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PHILADELPHIA INTL",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 37
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 63
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 4
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 19
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 37
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 4
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Maryland",
+            "children": [
+                {
+                    "name": "BALTIMORE WASH INTL",
+                    "children": [
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 23
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 8
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 56
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 36
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 26
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Massachusetts",
+            "children": [
+                {
+                    "name": "LOGAN INTL",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 38
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 31
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Nebraska",
+            "children": [
+                {
+                    "name": "EPPLEY AIRFIELD",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 34
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 28
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 4
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Taxi",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "New Jersey",
+            "children": [
+                {
+                    "name": "ATLANTIC CITY INTL",
+                    "children": [
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 17
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 16
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Parked",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NEWARK LIBERTY INTL ARPT",
+                    "children": [
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 17
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 11
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 107
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 25
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "TETERBORO AIRPORT",
+                    "children": [
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 16
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Taxi",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Washington",
+            "children": [
+                {
+                    "name": "SEATTLE-TACOMA INTL",
+                    "children": [
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Dusk",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 28
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 24
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 5
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Arizona",
+            "children": [
+                {
+                    "name": "PHOENIX SKY HARBOR",
+                    "children": [
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 14
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 12
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 23
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 30
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 7
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 9
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Dusk",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Parked",
+                            "children": [
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Michigan",
+            "children": [
+                {
+                    "name": "DETROIT METRO WAYNE COUNTY ARPT",
+                    "children": [
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Day",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 13
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 6
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 10
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Colorado",
+            "children": [
+                {
+                    "name": "DENVER INTL AIRPORT",
+                    "children": [
+                        {
+                            "name": "Climb",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 26
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 9
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Approach",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 36
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 14
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Take-off run",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 55
+                                },
+                                {
+                                    "name": "Dawn",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Landing Roll",
+                            "children": [
+                                {
+                                    "name": "Day",
+                                    "size": 30
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Descent",
+                            "children": [
+                                {
+                                    "name": "Night",
+                                    "size": 3
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
