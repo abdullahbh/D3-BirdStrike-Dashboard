@@ -1,5 +1,5 @@
 ## Bird Strike Visualization Project
-
+   ![1713272643426](image/Readme/1713272643426.png)
 ### Introduction
 
 This project aims to develop an interactive dashboard for visualizing bird strike data. As an aviation enthusiast and data aficionado, I've embarked on this journey to gain insights into bird strike incidents, their timeline, contributing factors, and the distribution of incidents across airports and states.
